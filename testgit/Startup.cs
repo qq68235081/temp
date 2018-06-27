@@ -11,6 +11,9 @@ using Microsoft.Extensions.Options;
 
 namespace testgit
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
